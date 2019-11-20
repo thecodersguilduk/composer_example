@@ -1,0 +1,3 @@
+# configuration for the data sending script.
+endpoint:
+csv_file: MOCK_DATA.csv
